@@ -17,8 +17,8 @@ package ufc
 
 import (
 	"github.com/blocktree/openwallet/v2/log"
-	"github.com/blocktree/whitecoin-adapter/whitecoin"
-	"github.com/assetsadapterstore/ufc-adapter/addrdec"
+	"github.com/Assetsadapter/whitecoin-adapter/whitecoin"
+	"github.com/Assetsadapter/ufc-adapter/addrdec"
 )
 
 type WalletManager struct {

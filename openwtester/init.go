@@ -1,7 +1,7 @@
 package openwtester
 
 import (
-	"github.com/assetsadapterstore/ufc-adapter/ufc"
+	"github.com/Assetsadapter/ufc-adapter/ufc"
 	"github.com/blocktree/openwallet/v2/log"
 	"github.com/blocktree/openwallet/v2/openw"
 )

@@ -16,7 +16,7 @@
 package ufc
 
 import (
-	"github.com/assetsadapterstore/ufc-adapter/addrdec"
+	"github.com/Assetsadapter/ufc-adapter/addrdec"
 )
 
 type addressDecoder struct {

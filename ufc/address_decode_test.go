@@ -19,7 +19,7 @@ import (
 	"encoding/hex"
 	"testing"
 
-	"github.com/assetsadapterstore/ufc-adapter/addrdec"
+	"github.com/Assetsadapter/ufc-adapter/addrdec"
 )
 
 func TestAddressDecoder_AddressEncode(t *testing.T) {
