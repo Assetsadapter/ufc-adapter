@@ -11,6 +11,4 @@ require (
 	github.com/blocktree/openwallet/v2 v2.0.10
 )
 
-replace (
-	github.com/imroc/req => github.com/blocktree/req v0.2.5
-)
+replace github.com/imroc/req => github.com/blocktree/req v0.2.5
